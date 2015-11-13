@@ -1,9 +1,9 @@
 /*
  ============================================================================
  Name        : lib_ADXL362.c
- Author      : Park Jung Hoo
- Version     :
- Copyright   : Your copyright notice
+ Author      : wjdgn2574
+ Version     : 0.7
+ Copyright   :
  Description : ADXL362 Library Source File
  ============================================================================
 */
